@@ -75,6 +75,8 @@ const (
 	optionUserServiceDefault   = false
 	optionSessionCreate        = "SessionCreate"
 	optionSessionCreateDefault = false
+	optionLimitLoadToSessionType = "LimitLoadToSessionType"
+	optionLimitLoadToSessionTypeDefault = "Aqua"
 	optionLogOutput            = "LogOutput"
 	optionLogOutputDefault     = false
 	optionPrefix               = "Prefix"
